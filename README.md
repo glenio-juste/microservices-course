@@ -180,6 +180,8 @@ Source -> Override -> authenticationManager()
 
 Basic authorization = "Basic " + Base64.encode(client-id + ":" + client-secret)
 
+teste token: https://jwt.io/#debugger-io
+
 ### 4.10 Autorização de recursos pelo gateway Zuul
 
 ### 4.11 Deixando o Postman top
