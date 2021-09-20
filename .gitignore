@@ -35,5 +35,6 @@ build/
 ### Eclipse ###
 
 .metadata/
+_anotation/
 curso-microsservicos-slides.pdf
 comandos-git.txt
