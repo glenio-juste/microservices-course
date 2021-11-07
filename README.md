@@ -44,6 +44,8 @@ ENTRYPOINT ["java","-jar","/hr-eureka-server.jar"]
 docker build -t hr-eureka-server:v1 .
 
 docker run -p 8761:8761 --name hr-eureka-server --network hr-net hr-eureka-server:v1
+
+http://localhost:8761/
 ```
 
 ## hr-worker
