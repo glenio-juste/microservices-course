@@ -235,3 +235,7 @@ fetch("http://localhost:8765/hr-worker/workers", {
 
 
 ![2](https://user-images.githubusercontent.com/47223292/141395573-4ea7c458-34c6-4961-a255-82ae1a7d5e7d.png)
+
+
+
+![teste_final_OK](https://user-images.githubusercontent.com/47223292/141395841-bd160190-7b7d-4f51-ab50-9111068e8207.png)
