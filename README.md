@@ -1,8 +1,6 @@
 # microservices-course
 
 # Curso Microsserviços Java com Spring Boot e Spring Cloud
-#### Nelio Alves 
-https://www.udemy.com/user/nelio-alves
 
 # Fase 1: Comunicação simples, Feign, Ribbon
 
@@ -224,3 +222,9 @@ fetch("http://localhost:8765/hr-worker/workers", {
   "credentials": "omit"
 });
 ```
+
+1 - hr-config-server
+2 - hr-eureka-server
+3 - hr-api-gateway-zuul
+4 - hr-oauth
+5 - restante
