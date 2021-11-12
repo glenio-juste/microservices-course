@@ -228,3 +228,10 @@ fetch("http://localhost:8765/hr-worker/workers", {
 3 - hr-api-gateway-zuul
 4 - hr-oauth
 5 - restante
+
+
+
+![1](https://user-images.githubusercontent.com/47223292/141395559-b14311fb-6cea-4a14-9c86-3e75197a983c.png)
+
+
+![2](https://user-images.githubusercontent.com/47223292/141395573-4ea7c458-34c6-4961-a255-82ae1a7d5e7d.png)
